@@ -1,0 +1,2 @@
+# Plugin-detail
+plugin folder
